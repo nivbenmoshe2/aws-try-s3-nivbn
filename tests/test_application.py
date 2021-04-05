@@ -1,7 +1,6 @@
 import json
 import pytest
 from helloworld.application import application
-from flask_cors import CORS
 
 
 @pytest.fixture
